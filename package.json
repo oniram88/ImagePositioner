@@ -60,6 +60,7 @@
     "base-64": "^0.1.0",
     "base64-img": "^1.0.4",
     "bootstrap-vue": "^2.0.0-rc.2",
+    "lodash": "^4.17.5",
     "mouse-position": "^2.0.1",
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.7",
