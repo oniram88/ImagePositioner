@@ -125,7 +125,6 @@
           this.image_height = this.$refs.image.height
         }, 300),
         onSubmit: function () {
-
           base64Img.base64(this.image.path, (err, data) => {
             this.image_source = data
           })
