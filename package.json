@@ -54,6 +54,7 @@
     },
     "linux": {
       "icon": "build/icons",
+      "publish": ["github"]
       "target":[
         {
           "target":"deb",
